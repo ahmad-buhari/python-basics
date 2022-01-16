@@ -23,29 +23,28 @@ import math
 #print((user_num // x) , (((user_num // x) // x)) , (((user_num // x) // x ) // x))
 #help()
 
-list_number = [1,2,3] 
-
-
-
-
-
-
 
 
 
 
 #################
-#List Exercis
+#List Exercise
 #################
 
 
 
-#my_list = ['red','blue','green']
+my_list = ['red','blue','green']
 
 #print('\nColor Choices:')
 
-#for x in my_list:
- #   print(x)
+for x in my_list:
+    print(x)
+
+print("\n""")
+
+#print(len(my_list))
+
+#print(my_list.index('green'))
     
 #my_list.append((input('\nPlease enter a new color Add new color \n')))
 
@@ -78,3 +77,20 @@ list_number = [1,2,3]
 
 #my_list.append(input('\nAdd another color'))
 
+ 
+
+ #List Practice Number
+#list_number = [1,2,3,3] 
+
+#for x in list_number:
+ #   print(x)
+
+#print(min(list_number))
+
+#print(list_number.index(1))
+
+test = 2 * 2.0
+
+print(test)
+
+print(int(test))
