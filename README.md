@@ -12,9 +12,9 @@ Throughout my career and personal education in information technology, I have ta
       title Writing Schedule
       
       Section Timeline
-      Created README.md             :done,      de1, 2022-04-06, 2022-04-07
+      README.md             :done,      de1, 2022-04-06, 2022-04-07
       Tansfer lesson notes          :active,    des2, 2022-04-07, 5d
-      Transfer code from Replit     : active, des3, 2022-04-13, 5d
+      Transfer code from Replit     : active, des3, 2022-04-12, 5d
 ```
 
 
