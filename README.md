@@ -29,8 +29,8 @@ Throughout my career and personal education in information technology, I have ta
 
       Example:
 
-`colour_list = ['red','blue']
-      print('$'.join(color_list))`
+            colour_list = ['red','blue']
+                  print('$'.join(color_list))
    
 
 
