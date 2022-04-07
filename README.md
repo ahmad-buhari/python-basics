@@ -26,12 +26,11 @@ Throughout my career and personal education in information technology, I have ta
 2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're human and sometime folks added an extra space at the end by accident. 
 
 3. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
-
-     
-```python
-colour_list = ['red','blue']
-      print('$'.join(color_list))
-```   
+  
+      ```python
+      colour_list = ['red','blue']
+            print('$'.join(color_list))
+      ```   
 
 
 4. Using the `help()` function to print all properties of a given class.
