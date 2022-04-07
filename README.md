@@ -21,10 +21,11 @@ Throughout my career and personal education in information technology, I have ta
 
 ## Tips for real-world application
 
-1. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're human and sometime folks added an extra space at the end by accident. 
+1. Remember when writing code to follow the best practices outlined in [PEP20 - Zen of Python](https://peps.python.org/pep-0020/)
 
+2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're human and sometime folks added an extra space at the end by accident. 
 
-2. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
+3. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
 
       Example:
 
@@ -35,12 +36,12 @@ Throughout my career and personal education in information technology, I have ta
       `>red$blue` 
 
 
-3. Using the `help()` function to print all properties of a given class.
+4. Using the `help()` function to print all properties of a given class.
 
       Try typing `help(str)`
 
 
-4. To see check builtin-in modules loaded check.
+5. To see check builtin-in modules loaded check.
 
       Loop through `__builtins__.__dict__` and review modules for additional info/
 
@@ -55,11 +56,19 @@ Throughout my career and personal education in information technology, I have ta
 
       `[print(x) for x in __builtins__.__dict__]`
 
-5. Try to pratice using python comprhension to simplify code.
-  
+6. Try to pratice using python comprhension to simplify code.  
 
-6. `assert` is useful for evaluting code. 
+7. `assert` is useful for evaluting code. 
 
 
-## Exception
-Are used to throw defined errors. Cause you know users are human so mistakes happens. Child proof it by explicitn allowing certain inputs.
+
+
+
+## Exceptions
+Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception method to throw and error.
+<details>
+<summary>Further Detail</summary>
+
+![GIF](<iframe src="https://giphy.com/embed/YDsNluvCfslXm3RkO0" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vmware-player-YDsNluvCfslXm3RkO0">via GIPHY</a></p>)
+
+</details>`
