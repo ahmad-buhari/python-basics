@@ -7,9 +7,14 @@ Throughout my career and personal education in information technology, I have ta
 ## Status
 
 ```mermaid
-graph TD;
-      A-->B;
-      A-->C;
+gantt;
+      gant
+      dateFormat YYYY-MM-DD
+      title Writing Schedule
+      
+      Section Timeline
+      Complete task     :done,      de1, 2022-04-06, 2022-04-07
+      Active task       :active,    des2, 2022-04-07, 5d
 ```
 
 
