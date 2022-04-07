@@ -29,11 +29,10 @@ Throughout my career and personal education in information technology, I have ta
 
       Example:
 
-      `colour_list = ['red','blue']`
+            colour_list = ['red','blue']
   
-      `print('$'.join(color_list))`
-  
-      `>red$blue` 
+                  print('$'.join(color_list))
+   
 
 
 4. Using the `help()` function to print all properties of a given class.
@@ -50,7 +49,7 @@ Throughout my career and personal education in information technology, I have ta
 
             for x in __builtins__.__dict__:
  
-            print(x)
+                  print(x)
 
       or with comprehension
 
