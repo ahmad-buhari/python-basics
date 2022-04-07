@@ -7,7 +7,7 @@ Throughout my career and personal education in information technology, I have ta
 ## Status
 
 ```mermaid
-gantt;
+gantt
       gant
       dateFormat YYYY-MM-DD
       title Writing Schedule
