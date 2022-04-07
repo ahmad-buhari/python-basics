@@ -48,13 +48,13 @@ Throughout my career and personal education in information technology, I have ta
 
       Example:
 
-            `for x in __builtins__.__dict__:`
+            for x in __builtins__.__dict__:
  
-            `print(x)` # remeber to indent this line
+            print(x)
 
       or with comprehension
 
-      `[print(x) for x in __builtins__.__dict__]`
+            [print(x) for x in __builtins__.__dict__]
 
 6. Try to pratice using python comprhension to simplify code.  
 
