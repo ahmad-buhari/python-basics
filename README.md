@@ -28,8 +28,8 @@ Throughout my career and personal education in information technology, I have ta
 3. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
   
       ```python
-      colour_list = ['red','blue']
-            print('$'.join(color_list))
+      color_list = ['red','blue']
+      print('$'.join(color_list))
       ```   
 
 
@@ -41,18 +41,14 @@ Throughout my career and personal education in information technology, I have ta
 5. To see check builtin-in modules loaded check.
 
       Loop through `__builtins__.__dict__` and review modules for additional info/
-
-
-      Example:
-
-            for x in __builtins__.__dict__:
- 
-                  print(x)
-
+      ```python
+      for x in __builtins__.__dict__:
+            print(x)
+      ```
       or with comprehension
-
-            [print(x) for x in __builtins__.__dict__]
-
+      ```python
+      [print(x) for x in __builtins__.__dict__]
+      ```
 6. Try to pratice using python comprhension to simplify code.  
 
 7. `assert` is useful for evaluting code. 
