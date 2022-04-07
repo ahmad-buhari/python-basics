@@ -4,6 +4,15 @@
 
 Throughout my career and personal education in information technology, I have taken about three beginner python courses. I took those classes because it was the coolest language at the moment, and I thought I had a decent understanding. Boy, was I wrong.... when I went through the fourth python course as part of my degree program to my shock, it was one of the most challenging courses I've taken. Since I didn't remember any of the material from the previous classes,  I had to start all over again. It truly shined a light on the importance of applying the skills you learn and keep practicing your trade. This page is dedicated to my never-ending journey with python.
 
+## Status
+
+```mermaid
+graph TD;
+      A-->B;
+      A-->C;
+```
+
+
 
 ## Tips for real-world application
 
