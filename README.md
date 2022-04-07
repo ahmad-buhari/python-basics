@@ -60,8 +60,13 @@ Throughout my career and personal education in information technology, I have ta
 - When creating a variable, it must start as a **letter** or an **underscore**
 - Python treats characters differently depending on the class, i.e. '1' is not 1
 
+## Manipluating the str 
+Any str / string can be modified, there are many tools at your disposal to convert the character to whatever endstate.
+
+### String Splicing
+Essentially selecting a character by picking it's positional place in the word.
 
 ## Exceptions
-Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception method to throw and error.
+Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception class dervived from the BaseException to throw and error.
 
 
