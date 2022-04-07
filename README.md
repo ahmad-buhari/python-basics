@@ -48,7 +48,7 @@ Throughout my career and personal education in information technology, I have ta
 
       Example:
 
-      `for x in __builtins__.__dict__:`
+            `for x in __builtins__.__dict__:`
  
             `print(x)` # remeber to indent this line
 
@@ -63,12 +63,12 @@ Throughout my career and personal education in information technology, I have ta
 
 
 
+## Basic Knowledege
+When creating a variable, it must start as a **letter** or an **underscore**
+Python treats characters differently depending on the class, i.e. '1' is not 1
+
 
 ## Exceptions
 Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception method to throw and error.
-<details>
-<summary>Further Detail</summary>
 
-![GIF](<iframe src="https://giphy.com/embed/YDsNluvCfslXm3RkO0" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vmware-player-YDsNluvCfslXm3RkO0">via GIPHY</a></p>)
 
-</details>`
