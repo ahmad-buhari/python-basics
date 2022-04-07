@@ -64,8 +64,8 @@ Throughout my career and personal education in information technology, I have ta
 
 
 ## Basic Knowledege
-When creating a variable, it must start as a **letter** or an **underscore**
-Python treats characters differently depending on the class, i.e. '1' is not 1
+- When creating a variable, it must start as a **letter** or an **underscore**
+- Python treats characters differently depending on the class, i.e. '1' is not 1
 
 
 ## Exceptions
