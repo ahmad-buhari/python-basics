@@ -36,7 +36,11 @@ Throughout my career and personal education in information technology, I have ta
 
 4. Using the `help()` function to print all properties of a given class.
 
-      Try typing `help(str)`
+      ```python
+      #Example print help for the str method on the python console
+      help(str)
+      
+      ```
 
 
 5. To see check builtin-in modules loaded check.
@@ -55,8 +59,6 @@ Throughout my career and personal education in information technology, I have ta
 6. Try to pratice using python comprhension to simplify code.  
 
 7. `assert` is useful for evaluting code. 
-
-
 
 
 ## Basic Knowledege
