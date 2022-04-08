@@ -28,6 +28,7 @@ Throughout my career and personal education in information technology, I have ta
 3. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
   
       ```python
+      #Example
       color_list = ['red','blue']
       print('$'.join(color_list))
       ```   
@@ -42,11 +43,13 @@ Throughout my career and personal education in information technology, I have ta
 
       Loop through `__builtins__.__dict__` and review modules for additional info/
       ```python
+      #Example
       for x in __builtins__.__dict__:
             print(x)
       ```
       or with comprehension
       ```python
+      #Example
       [print(x) for x in __builtins__.__dict__]
       ```
 6. Try to pratice using python comprhension to simplify code.  
@@ -60,11 +63,38 @@ Throughout my career and personal education in information technology, I have ta
 - When creating a variable, it must start as a **letter** or an **underscore**
 - Python treats characters differently depending on the class, i.e. '1' is not 1
 
-## Manipluating the str 
-Any str / string can be modified, there are many tools at your disposal to convert the character to whatever endstate.
+## Manipluating the string = str 
+Any string / str can be modified, there are many tools at your disposal to convert the character to whatever endstate.
 
 ### String Splicing
-Essentially selecting a character by picking it's positional place in the word.
+Essentially selecting a character by picking it's positional place in the word. Remember positional value starts from 0 and empty value (i.e. blank space) counts.
+```python
+#Example
+word = 'Hello World!'
+print(word[0])
+print(word[1])
+print(word[11])
+```
+
+### String Splicing II
+You can also iterate over strings with a verbose method `[a:b:c]`
+- a is the starting position
+- b is the ending position
+- c is the frequency
+
+Note: 
+- When using this method positional value start at 1.
+- Default starting value is 0, and  frequency value is 1, `[0::1]`
+- To print in reverse order use the frequency value at -1, `[::-1]`
+
+```python
+#Example
+word = 'Hello World!'
+print(word[1:5:])
+print(word[::2])
+print(word[::-1])
+
+```
 
 ## Exceptions
 Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception class dervived from the BaseException to throw and error.
