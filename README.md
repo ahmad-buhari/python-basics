@@ -34,10 +34,11 @@ Throughout my career and personal education in information technology, I have ta
       ```   
 
 
-4. Using the `help()` function to print all properties of a given class.
+4. Using the `help()` function to print all properties of a given class or method.
 
       ```python
-      #Example print help for the str method on the python console
+      #Example: 
+      #Print help for the str method on the python console
       help(str)
       
       ```
