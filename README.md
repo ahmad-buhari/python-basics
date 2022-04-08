@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ahmad-buhari/python-basics)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahmad-buhari/python-basics)
 
-Throughout my career and personal education in information technology, I have taken about three beginner python courses. I took those classes because it was the coolest language at the moment, and I thought I had a decent understanding. Boy, was I wrong.... when I went through the fourth python course as part of my degree program to my shock, it was one of the most challenging courses I've taken. Since I didn't remember any of the material from the previous classes,  I had to start all over again. It truly shined a light on the importance of applying the skills you learn and keep practicing your trade. This page is dedicated to my never-ending journey with python.
+Throughout my career and personal education in information technology, I have taken about three beginner python courses. I took those classes because it was the coolest language at the moment, and I thought I had a decent understanding. Boy, was I wrong.... when I went through the fourth introduction python course as part of my degree program to my shock, it was one of the most challenging courses I've taken. It had a 3-hour test at the end where we had to solve 21 coding challenges. Since I only practice the lesson exercises, applying actual coding methodology was completely different. It truly shined a light on the importance of using the skills you learn and keep practicing your trade. This page is dedicated to my never-ending journey with python.
 
 ## Status
 
