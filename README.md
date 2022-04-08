@@ -65,6 +65,7 @@ Throughout my career and personal education in information technology, I have ta
 ## Basic Knowledege
 - When creating a variable, it must start as a **letter** or an **underscore**
 - Python treats characters differently depending on the class, i.e. '1' is not 1
+- When in doubt reference [Python documenation](https://docs.python.org/)
 
 ## Manipluating the string = str 
 Any string / str can be modified, there are many tools at your disposal to convert the character to whatever endstate.
