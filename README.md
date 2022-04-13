@@ -44,9 +44,9 @@ Throughout my career and education in information technology, I had taken three 
       ```
 
 
-5. To check builtin-in modules loaded use the dunder method and to output the properities.
+5. To check builtin-in modules loaded use the dunder method and output the properities.
 
-      Loop through `__builtins__.__dict__` and review modules for additional info/
+      Loop through `__builtins__.__dict__` and review modules for additional info.
       ```python
       #Example
       for x in __builtins__.__dict__:
