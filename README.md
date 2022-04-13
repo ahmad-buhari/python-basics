@@ -21,11 +21,11 @@ Throughout my career and education in information technology, I had taken three 
 
 ## Tips for real-world application
 
-1. Remember when writing code to follow the best practices outlined in [PEP20 - Zen of Python](https://peps.python.org/pep-0020/)
+1. When writing code follow the best practices outlined in [PEP20 - Zen of Python](https://peps.python.org/pep-0020/)
 
-2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're human and sometime folks added an extra space at the end by accident. 
+2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're humans and sometime people added an extra space at the end by accident. 
 
-3. Use `join` to save time for concanting (combining) a list of str values. No need to loop and concat the str togther.
+3.  Use `join` to save time for concatenating (combining) a list of str values. No need to use the loop method and combine the str together.
   
       ```python
       #Example
