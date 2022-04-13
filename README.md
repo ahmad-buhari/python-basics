@@ -37,7 +37,7 @@ Throughout my career and personal education in information technology, I have ta
 4. Using the `help()` function to print all properties of a given class or method.
 
       ```python
-      #Example: 
+      #Example
       #Print help for the str method on the python console
       help(str)
       
@@ -64,7 +64,7 @@ Throughout my career and personal education in information technology, I have ta
 8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
 
 ```python
-#Example:
+#Example
 #Using open(), str(), list() methods to modify a given excel report.     
 
 ```
