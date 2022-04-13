@@ -73,10 +73,10 @@ Throughout my career and education in information technology, I had taken three 
 ## Basic Knowledege
 - When creating a variable, it must start as a **letter** or an **underscore**
 - Python treats characters differently depending on the class, i.e. '1' is not 1
-- When in doubt reference [Python documenation](https://docs.python.org/)
+- When in doubt reference [Python documentation](https://docs.python.org/)
 
 ## Manipluating the string = str 
-Any string / str can be modified, there are many tools at your disposal to convert the character to whatever endstate.
+Any string / str can be modified, there are many str.methods at your disposal to transform the characters to your need.
 
 ### String Splicing
 Essentially selecting a character by picking it's positional place in the word. Remember positional value starts from 0 and empty value (i.e. blank space) counts.
