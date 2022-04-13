@@ -13,8 +13,8 @@ Throughout my career and personal education in information technology, I have ta
       
       Section Timeline
       README.md             :done,      de1, 2022-04-06, 2022-04-07
-      Tansfer lesson notes          :active,    des2, 2022-04-07, 5d
-      Transfer code from Replit     : active, des3, 2022-04-12, 5d
+      Tansfer lesson notes          :active,    des2, 2022-04-07, 10d
+      Transfer code from Replit     : active, des3, 2022-04-17, 10d
 ```
 
 
