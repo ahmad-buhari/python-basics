@@ -44,7 +44,7 @@ Throughout my career and personal education in information technology, I have ta
       ```
 
 
-5. To see check builtin-in modules loaded check.
+5. To check builtin-in modules loaded use the dunder method and to output the properities.
 
       Loop through `__builtins__.__dict__` and review modules for additional info/
       ```python
@@ -57,9 +57,17 @@ Throughout my career and personal education in information technology, I have ta
       #Example
       [print(x) for x in __builtins__.__dict__]
       ```
-6. Try to pratice using python comprhension to simplify code.  
+6. Pratice using python comprhension to simplify code.  
 
 7. `assert` is useful for evaluting code. 
+
+8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
+
+```python
+#Example:
+#Using open(), str(), list() methods to modify a given excel report.     
+
+```
 
 
 ## Basic Knowledege
@@ -99,6 +107,17 @@ print(word[::2])
 print(word[::-1])
 
 ```
+
+### String Alignment
+You can align string depending on the position of a give text value with the `str:<value`
+```python
+#Example
+my_string = '{string1:>1}'
+my_string2 = '{string1:>10}'
+print(my_string.format(string1='Hello'))
+print(my_string2.format(string1='Hello'))
+```
+
 
 ## Exceptions
 Are used to handled data that does not mesh with your code. Example, you want a user to enter a data in string format, you can use the Exception class dervived from the BaseException to throw and error.
