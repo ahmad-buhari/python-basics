@@ -127,5 +127,9 @@ Are used to handled data that does not mesh with your code. Example, you want a 
 - Meterics powered by [shields.io](https://shields.io/)
 - Graph powered by [mermaid-ji.github.io](https://mermaid-js.github.io/mermaid/#/)
 
-##Testing
-<iframe width="100%" height="300" src="https://replit.com/@AhmadBuhari/Python-Labs" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+## Testing
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://replit.com/@AhmadBuhari/Python-Labs frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
