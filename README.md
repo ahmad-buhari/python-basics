@@ -17,7 +17,7 @@ Throughout my career and education in information technology, I had taken three 
       Transfer code from Replit     : active, des3, 2022-04-17, 10d
 ```
 
-:bulb:[Checkout lab deployment](https://replit.com/@AhmadBuhari)
+:bulb:[Checkout lab deployment on Replit](https://replit.com/@AhmadBuhari)
 
 ## Tips for real-world application
 
