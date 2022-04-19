@@ -128,8 +128,4 @@ Are used to handled data that does not mesh with your code. Example, you want a 
 - Graph powered by [mermaid-ji.github.io](https://mermaid-js.github.io/mermaid/#/)
 
 ## Testing
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/5LdAEBimv5Q" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/5LdAEBimv5Q" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
