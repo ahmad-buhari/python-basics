@@ -14,7 +14,7 @@ Throughout my career and education in information technology, I had taken three 
       Section Timeline
       README.md             :done,      de1, 2022-04-06, 2022-04-07
       Tansfer lesson notes          :active,    des2, 2022-04-07, 10d
-      Transfer code from Replit     : active, des3, 2022-05-17, 10d
+      Transfer code from Replit     : active, des3, 2022-04-17, 30d
 ```
 
 :bulb:[Checkout lab deployment on Replit](https://replit.com/@AhmadBuhari)
