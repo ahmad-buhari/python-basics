@@ -29,6 +29,7 @@ while True:
         \n2. Exploring the method of a class
         \n3. Display execrise files
         \n4. Slow print example
+        \n5. Exercise scripts
         \nType \'q\' or \'quit\' to exit the window\n''')) 
       
         if user_input == 'q':
@@ -49,6 +50,14 @@ while True:
         
         elif user_input =='4':
             slow('hello world, bye world')
+        
+        elif user_input == '5':
+            slow('Loading mods')
+            import lab31_1
+            
+
+
+
 
         slow('\n**restarting**\n')
         
