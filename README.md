@@ -63,17 +63,17 @@ Throughout my career and education in information technology, I had taken three 
 
 8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
 
-```python
-#Example
-#Using open(), str(), list() methods to modify a given csv file.
+      ```python
+      #Example
+      #Using open(), str(), list() methods to modify a given csv file.
 
-with open('file.csv',) as csvfile:
-  content = csv.reader(csvfile, delimiter=',')
-  for row in content:
-    for color in row:
-      print(color)   
+      with open('file.csv',) as csvfile:
+      content = csv.reader(csvfile, delimiter=',')
+      for row in content:
+      for color in row:
+            print(color)   
 
-```
+      ```
 
 
 ## Basic Knowledege
