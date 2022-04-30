@@ -61,11 +61,17 @@ Throughout my career and education in information technology, I had taken three 
 
 7. Use a package manager for python to orchestrate module installation, I perfer [poetry](https://python-poetry.org/docs/). This auto install dependicies for the code to work outside of the system global 
 
-8. Use a package manager for python to orchestrate module installation, I prefer [poetry](https://python-poetry.org/docs/). This automatically installs the dependencies for the code to work. 
+8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
 
 ```python
 #Example
-#Using open(), str(), list() methods to modify a given excel report.     
+#Using open(), str(), list() methods to modify a given csv file.
+
+with open('file.csv',) as csvfile:
+  content = csv.reader(csvfile, delimiter=',')
+  for row in content:
+    for color in row:
+      print(color)   
 
 ```
 
