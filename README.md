@@ -23,9 +23,9 @@ Throughout my career and education in information technology, I had taken three 
 
 1. When writing code follow the best practices outlined in [PEP20 - Zen of Python](https://peps.python.org/pep-0020/)
 
-2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're humans and sometime people added an extra space at the end by accident. 
+2. Check any incoming input strings and prep to remove empty spaces with `strip()` remember we're humans and sometimes people type added an extra space at the end by accident. 
 
-3.  Use `join` to save time for concatenating (combining) a list of str values. No need to use the loop method and combine the str together.
+3.  Use `join` to save time for concatenating (combining) a list of str values. 
   
       ```python
       #Example
@@ -34,7 +34,7 @@ Throughout my career and education in information technology, I had taken three 
       ```   
 
 
-4. Using the `help()` function to print all properties of a given class or method.
+4. Using the `help()` function to print all the properties of a given class or method.
 
       ```python
       #Example
@@ -44,7 +44,7 @@ Throughout my career and education in information technology, I had taken three 
       ```
 
 
-5. To check builtin-in modules loaded use the dunder method and output the properities.
+5. To check builtin-in modules loaded use the dunder method and output the properties.
 
       Loop through `__builtins__.__dict__` and review modules for additional info.
       ```python
@@ -57,11 +57,11 @@ Throughout my career and education in information technology, I had taken three 
       #Example
       [print(x) for x in __builtins__.__dict__]
       ```
-6. Pratice using python comprhension to simplify code.  
+6. Practice using python comprehension to simplify code.  .  
 
 7. Use a package manager for python to orchestrate module installation, I perfer [poetry](https://python-poetry.org/docs/). This auto install dependicies for the code to work outside of the system global 
 
-8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
+8. Having a good understanding of the fundamental topics such as methods, class, and functions will significantly increase your ability to develop/brainstorm solutions for the attended problem.
 
       ```python
       #Example
