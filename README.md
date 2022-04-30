@@ -59,9 +59,9 @@ Throughout my career and education in information technology, I had taken three 
       ```
 6. Pratice using python comprhension to simplify code.  
 
-7. `assert` is useful for evaluting code. 
+7. Use a package manager for python to orchestrate module installation, I perfer [poetry](https://python-poetry.org/docs/). This auto install dependicies for the code to work outside of the system global 
 
-8. Having a good understandning of the fundamental methods, class, functions will significanlty increase your ability to develop a solution.
+8. Use a package manager for python to orchestrate module installation, I prefer [poetry](https://python-poetry.org/docs/). This automatically installs the dependencies for the code to work. 
 
 ```python
 #Example
